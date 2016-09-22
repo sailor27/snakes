@@ -1,11 +1,16 @@
-#snk {
+#snk, #trt, #liz, #none {
   display:none;
 }
 
+#none {
+  padding:10px;
+  font-size: 18em;
+  font-style: italic;
+}
 img {
   max-width: 300px;
 }
 
-#question2 {
+#question2, #question3 {
   display: none;
 }
